@@ -3,4 +3,4 @@ Omega-Flight Computer
 
 Omega is the rocket's main flight computer.
 
---More details coming soon --
+This is the first iteration of the flight computer 
